@@ -6,7 +6,7 @@ import javafx.scene.input.KeyCode;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
+//comit for version 1.2
 public class Controller {
     @FXML
     private TextArea textArea;
